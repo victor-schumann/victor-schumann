@@ -26,4 +26,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=victor-schumann&show_icons=true&hide_border=true&locale=en&layout=compact" alt="victor-schumann" /></p>
 
-<p align="center"><a href="https://ko-fi.com/victor-schumann"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="victor-schumann" /></a></p>
+<p align="center"><a href="https://ko-fi.com/victorschumann"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="victor-schumann" /></a></p>
