@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [VictorSchumann.com](https://victorschumann.com)
 
-- 📫 Reach me at [schumann@disroot.org](goto:schumann@disroot.org)
+- 📫 Reach me at [schumann@disroot.org](mailto:schumann@disroot.org)
 
 - ⚡ Fun fact: I have a cat named Sol
 
