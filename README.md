@@ -6,7 +6,7 @@
 </p>
   
 
-- 🔭 I’m currently working on [more retro games than I should](https://github.com/victor-schumann/python-games)
+- 🔭 I’m currently working on [more retro games than I should](https://github.com/victor-schumann/python-games) & following the [Foundation projects from OP](https://github.com/victor-schumann/odin-project)
 
 - 🌱 I’m currently learning about **Data Science, Python & Web Development**
 
@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [VictorSchumann.com](https://victorschumann.com)
 
-- 📫 Reach me at **schumann@disroot.org**
+- 📫 Reach me at [schumann@disroot.org](goto:schumann@disroot.org)
 
 - ⚡ Fun fact: I have a cat named Sol
 
