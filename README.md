@@ -6,7 +6,7 @@
 </p>
   
 
-- 🔭 I’m currently working on [more retro games than I should](https://github.com/victor-schumann/python-games) & following the [Foundation projects from OP](https://github.com/victor-schumann/odin-project)
+- 🔭 I’m currently working on [more retro games than I should](https://github.com/victor-schumann/python-games) & following the [Foundation course from Odin Project](https://github.com/victor-schumann/odin-project)
 
 - 🌱 I’m currently learning about **Data Science, Python & Web Development**
 
