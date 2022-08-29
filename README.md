@@ -8,8 +8,7 @@
 - 🔭 I’m currently working on [python retro games](https://github.com/victor-schumann/Pygames) & following the [Odin Project](https://github.com/victor-schumann/odin-project)
 - 🌱 I’m currently learning about **Data Science, Python & Web Development**
 - 👯 I’m looking to collaborate on **open source projects with social impact**
-- 📫 Reach me at [schumann@disroot.org](mailto:schumann@disroot.org)
-- ⚡ Fun fact: I have a cat named Sol
+- 📫 Reach me at [schumann@tutamail.com](mailto:schumann@disroot.org)
 
 ## Skills 🚀
 ![](https://img.shields.io/badge/Python-2B2728?style=for-the-badge&logo=Python&logoColor=white)
