@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World 👋 <br> I'm Victor Schumann</h1>
-<h3 align="center">A passionate developer & student from Brazil</h3>
+<h3 align="center">A passionate developer & student</h3>
 <p align="center">
 <a href="https://twitter.com/schumann_victor" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="schumann_victor" height="30" width="auto" hspace="25"/></a>
 <a href="https://linkedin.com/in/victor-schumann" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="victor-schumann" height="30" width="auto"/></a>
