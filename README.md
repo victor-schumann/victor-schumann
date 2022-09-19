@@ -20,22 +20,17 @@
 <img align="center" src="https://img.shields.io/badge/Python-2B2728?style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge" height="30" width="auto" hspace="25"/></a>
 </p>
 
+<!--
 <div align="center">
-<details>
-<summary>
-  
-## Github Stats 🤖
 
-</summary>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=victor-schumann&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=victor-schumann&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-schumann&theme=dark&show_icons=true&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-schumann&langs_count=5&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
 </div>
+-->
 
 
 <!-- Consider adding the following elements:
