@@ -5,7 +5,7 @@
 <a href="https://linkedin.com/in/victor-schumann" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="victor-schumann" height="30" width="auto"/></a>
 </p>  
 
-- 🔭 I'm curretly following the [Odin Project](https://github.com/victor-schumann/odin-project) and working on their project assignments
+- 🔭 I'm curretly following the [Odin Project](https://github.com/victor-schumann/odin-project) and working on Javascript projects
 - 🌱 I’m currently learning about **Full Stack Web Development**
 - 👯 I’m looking to collaborate on **open source projects with social impact**
 - 📫 Reach me at [schumann@tutamail.com](mailto:schumann@tutamain.org)
