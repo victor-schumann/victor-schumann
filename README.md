@@ -6,6 +6,7 @@
 </p>  
 
 - 🔭 I'm curretly following the [Odin Project](https://github.com/victor-schumann/odin-project) and working on Javascript projects
+- 📚 I'm studying at the [Instituto Politécnico de Leiria](ipleiria.pt)
 - 🌱 I’m currently learning about **Full Stack Web Development**
 - 👯 I’m looking to collaborate on **open source projects with social impact**
 - 📫 Reach me at [schumann@tutamail.com](mailto:schumann@tutamain.org)
@@ -18,6 +19,7 @@
 <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" height="30" width="auto" hspace="25"/></a>
 <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge" height="30" width="auto" hspace="25"/></a>
 <img align="center" src="https://img.shields.io/badge/Python-2B2728?style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge" height="30" width="auto" hspace="25"/></a>
+<img align="center" src="https://img.shields.io/badge/programming-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C badge" height="30" width="auto" hspace="25"/></a>
 </p>
 
 <!--
