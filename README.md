@@ -9,7 +9,7 @@
 - 📚 I'm studying at the [Instituto Politécnico de Leiria](ipleiria.pt)
 - 🌱 I’m currently learning about **Full Stack Web Development**
 - 👯 I’m looking to collaborate on **open source projects with social impact**
-- 📫 Reach me at [schumann@tutamail.com](mailto:schumann@tutamain.org)
+- 📫 Reach me at [schumann@tutamail.com](mailto:schumann@tutamain.com) or at [schumann.pt@gmail.com](mailto:schumann.pt@gmail.com)
 
 <p align="center">
 
