@@ -5,7 +5,7 @@
 <a href="https://linkedin.com/in/victor-schumann" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="victor-schumann" height="30" width="auto"/></a>
 </p>  
 
-- 🔭 I'm curretly working at [NORTAN]([https://github.com/victor-schumann/odin-project](https://www.linkedin.com/company/nortan-solu%C3%A7%C3%A3o-integrada-em-projetos/)) as a Frontend AngularJs Intern
+- 🔭 I'm curretly working at [ARXI](https://www.arxi.pt/en_US/) as a Software Developer
 - 📚 I'm studying at the [Polythecnical Institute of Leiria](ipleiria.pt)
 - 🌱 I’m currently learning about **Full Stack Web Development**
 - 👯 I’m looking to collaborate on **open source projects with social impact**
