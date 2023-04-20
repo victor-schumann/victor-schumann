@@ -7,7 +7,7 @@
 
 - 🔭 I'm curretly working at [ARXI](https://www.arxi.pt/en_US/) as a Software Developer
 - 📚 I'm studying at the [Polythecnical Institute of Leiria](ipleiria.pt)
-- 🌱 I’m currently learning about **Full Stack Web Development**
+- 🌱 I’m currently learning about **Python Programming**
 - 👯 I’m looking to collaborate on **open source projects with social impact**
 - 📫 Reach me at [schumann@tutamail.com](mailto:schumann@tutamain.com) or at [schumann.pt@gmail.com](mailto:schumann.pt@gmail.com)
 
