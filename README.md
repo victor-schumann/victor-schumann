@@ -1,7 +1,6 @@
 <h1 align="center">Hello, World 👋 <br> I'm Victor Schumann</h1>
 <h3 align="center">A passionate developer & student</h3>
 <p align="center">
-<a href="https://twitter.com/schumann_victor" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="schumann_victor" height="30" width="auto" hspace="25"/></a>
 <a href="https://linkedin.com/in/victor-schumann" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="victor-schumann" height="30" width="auto"/></a>
 </p>  
 
@@ -16,12 +15,14 @@
 
 ## Skills 🚀
 <p align="center">
-<img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" height="25" width="auto" hspace="10"/></a>
-<img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" height="25" width="auto" hspace="10"/></a>
-<img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge" height="25" width="auto" hspace="10"/></a>
-<img align="center" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Javascript Badge" height="25" width="auto" hspace="10"/></a>
-<img align="center" src="https://img.shields.io/badge/Python-2B2728?style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge" height="25" width="auto" hspace="10"/></a>
-<img align="center" src="https://img.shields.io/badge/programming-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C badge" height="25" width="auto" hspace="10"/></a>
+    <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter Badge" height="25" width="auto" hspace="10"/>
+    <img align="center" src="https://img.shields.io/badge/Python-2B2728?style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge" height="25" width="auto" hspace="10"/>
+    <img align="center" src="https://img.shields.io/badge/C_Programming-A8B9CC?style=for-the-badge&logo=C&logoColor=black" alt="C badge" height="25" width="auto" hspace="10"/>
+    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" height="25" width="auto" hspace="10"/>
+    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" height="25" width="auto" hspace="10"/>
+    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge" height="25" width="auto" hspace="10"/>
+    <img align="center" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge" height="25" width="auto" hspace="10"/>
+    <img align="center" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vue Badge" height="25" width="auto" hspace="10"/>
 </p>
 
 <!--
