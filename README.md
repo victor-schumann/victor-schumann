@@ -9,7 +9,7 @@
 - 📚 I'm studying at the [Polythecnical Institute of Leiria](ipleiria.pt)
 - 👯 I’m looking to collaborate on **open source projects with social impact**
 - 👾 I actively participate on hackatons all over the world
-- 📫 Reach me at [schumann@tutamail.com](mailto:schumann@tutamain.com) or at [schumann.pt@gmail.com](mailto:schumann.pt@gmail.com)
+- 📫 Reach me at [contact@victorschumann.eu](mailto:contact@victorschumann.eu)
 
 <p align="center">
 
