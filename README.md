@@ -4,10 +4,10 @@
 <a href="https://linkedin.com/in/victor-schumann" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="victor-schumann" height="30" width="auto"/></a>
 </p>  
 
-- 🔭 I'm curretly working at [ARXI](https://www.arxi.pt/en_US/) as a FullStack Enginner and Flutter Developer
-- 🤳 I am currently developing **mobile apps**, and **learning python** as a pastime
+- 🔭 I'm curretly working at [ARXI](https://www.arxi.pt/en_US/) as a Python Developer
+- 🤳 I am currently developing **mobile apps with flutter**, and **learning full stack web development**
 - 📚 I'm studying at the [Polythecnical Institute of Leiria](ipleiria.pt)
-- 👯 I’m looking to collaborate on **open source projects with social impact**
+- 👯 I’m looking to collaborate on **open source projects**
 - 👾 I actively participate on hackatons all over the world
 - 📫 Reach me at [contact@victorschumann.eu](mailto:contact@victorschumann.eu)
 
