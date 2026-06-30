@@ -1,15 +1,13 @@
-<h1 align="center">Hello, World 👋 <br> I'm Victor Schumann</h1>
-<h3 align="center">A passionate developer & student</h3>
+<h1 align="center">Hello World 👋 <br> I'm Victor Schumann</h1>
+<!-- <h3 align="center">A passionate developer</h3> -->
 <p align="center">
 <a href="https://linkedin.com/in/victor-schumann" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="victor-schumann" height="30" width="auto"/></a>
 </p>  
 
-- 🔭 I'm curretly working at [ARXI](https://www.arxi.pt/en_US/) as a Python Developer
-- 🤳 I am currently developing **mobile apps with flutter**, and **learning full stack web development**
-- 📚 I'm studying at the [Polythecnical Institute of Leiria](ipleiria.pt)
-- 👯 I’m looking to collaborate on **open source projects**
-- 👾 I actively participate on hackatons all over the world
-- 📫 Reach me at [contact@victorschumann.com](mailto:contact@victorschumann.com)
+- I'm curretly working at [LTECH](https://www.ltech.dk) as a Python Developer
+- I actively participate on hackatons and open source projects
+- I'm developing Android, AI and Q&A Applications
+- You can learn more about me by checking my [resume](https://victor-schumann.github.io/resume/)
 
 <p align="center">
 
@@ -22,7 +20,6 @@
     <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" height="25" width="auto" hspace="10"/>
     <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge" height="25" width="auto" hspace="10"/>
     <img align="center" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge" height="25" width="auto" hspace="10"/>
-    <img align="center" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vue Badge" height="25" width="auto" hspace="10"/>
 </p>
 
 <!--
